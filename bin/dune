@@ -1,0 +1,16 @@
+(library
+ (name utils)
+ (libraries base)
+ (modules utils))
+
+(executable
+ (public_name part1)
+ (name part1)
+ (libraries base utils str)
+ (modules  part1))
+
+(executable
+ (public_name part2)
+ (name part2)
+ (libraries base utils str)
+ (modules  part2))
