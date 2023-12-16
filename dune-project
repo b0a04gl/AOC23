@@ -20,6 +20,6 @@
  (description "Upsolve problems") 
  (depends ocaml dune)
  (tags
-  (topics "aoc23" aoc23))
+  (topics "aoc23" aoc23)))
 
 ; See the complete stanza docs at https://dune.readthedocs.io/en/stable/dune-files.html#dune-project

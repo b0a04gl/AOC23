@@ -14,3 +14,9 @@
  (name part2)
  (libraries base utils str)
  (modules  part2))
+
+(executable
+ (public_name day2_part1)
+ (name day2_part1)
+ (libraries base utils str)
+ (modules  day2_part1))
